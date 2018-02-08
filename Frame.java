@@ -1,3 +1,6 @@
+//本游戏是一个猜测游戏，用以帮助玩家考虑简单的利弊
+//this is a test game
+
 import java.util.Scanner;
 
 public class Frame {

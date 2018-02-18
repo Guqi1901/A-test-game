@@ -13,7 +13,7 @@ public class Frame {
 		int[] oldjudge = new int[20];
 		int judgement;
 		
-		while(count<20){
+		while(count<8){
 		
 			System.out.println("请输入三个数");
 			youranswer[count][0]= sc.nextInt();
